@@ -1,12 +1,13 @@
 ```
       __
   __--  \-_
-  \      \ \    well hello there
+  \      \ \         well hello there
    \     _\_\
-    \__--_-       take a look around
+    \__--_-                                  take a look around
 
 ```
 
+if you havent seen [my website](starmaid.github.io), you should go there first
 
 
 
