@@ -7,7 +7,7 @@
 
 ```
 
-if you havent seen [my website](starmaid.github.io), you should go there first
+if you havent seen [my website](https://starmaid.github.io), you should go there first
 
 
 
