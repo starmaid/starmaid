@@ -11,7 +11,6 @@ if you havent seen [my website](https://starmaid.github.io), you should go there
 
 - 📚 Trying to keep an active blog
 - 🤖 Writing Discord bots
-- 🎄 Advent of Code 2021
 - 🎥 Exploring glitch visuals
 
 <!--
