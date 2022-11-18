@@ -1,10 +1,10 @@
 ```
-      __
-  __--  \-_
-  \  🌟  \ \         well hello there
-   \     _\_\
-    \__--_-                                  take a look around
-
+ 🌟   __           🌟               🌟
+  __--  \-_               🌟                            🌟
+  \      \ \         well hello there                         🌟
+   \     _\_\   🌟                       🌟
+    \__--_-                     🌟           take a look around
+                  🌟                             🌟
 ```
 
 if you havent seen [my website](https://starmaid.github.io), you should go there first
