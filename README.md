@@ -11,7 +11,7 @@ if you havent seen [my website](https://starmaid.github.io), you should go there
 
 - 🎥 Exploring glitch visuals
 - 🎅 Doing advent of code 2022
-- \\= Learning Haskell
+- \\\\= Learning Haskell
 - 📨 Getting back into emails like its 1993
 
 <!--
