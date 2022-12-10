@@ -9,9 +9,10 @@
 
 if you havent seen [my website](https://starmaid.github.io), you should go there first
 
-- 📚 Trying to keep an active blog
-- 🤖 Writing Discord bots
 - 🎥 Exploring glitch visuals
+- 🎅 Doing advent of code 2022
+- \\= Learning Haskell
+- 📨 Getting back into emails like its 1993
 
 <!--
 **starmaid/starmaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
