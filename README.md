@@ -10,9 +10,9 @@
 if you havent seen [my website](https://starmaid.github.io), you should go there first
 
 - 🎥 Exploring glitch visuals
-- 🎅 Doing advent of code 2022
+- 🕶 Developing for VR with Unreal Engine
 - \\\\= Learning Haskell
-- 📨 Getting back into emails like its 1993
+- 🦴 repairing my right ankle
 
 <!--
 **starmaid/starmaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
