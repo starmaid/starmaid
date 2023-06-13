@@ -9,9 +9,9 @@
 
 if you havent seen [my website](https://starmaid.github.io), you should go there first
 
-- 🎥 Exploring glitch visuals
+- 🔁 Repeating the cycle
 - 🕶 Developing for VR with Unreal Engine
-- \\\\= Learning Haskell
+- 👯‍♀️ Looking for glitch musicians to jam with
 - 🦴 repairing my right ankle
 
 <!--
