@@ -3,7 +3,6 @@ if you havent seen [my website](https://starmaid.github.io), you should go there
 - 🔁 Repeating the cycle
 - 🕶 Developing for VR with Unreal Engine
 - 👯‍♀️ Looking for glitch musicians to jam with
-- 🦴 repairing my right ankle
 
 <!--
 **starmaid/starmaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
